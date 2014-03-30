@@ -20,5 +20,9 @@
 *.out
 *.app
 
-/Debug
-/Release
+.DS_Store
+.project
+.cproject
+.settings/
+Debug/
+Release/
